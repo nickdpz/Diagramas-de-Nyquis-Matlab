@@ -16,5 +16,3 @@ grid on;
 subplot(1,2,2);
 nyquist(sys3);
 grid on;
-
-
